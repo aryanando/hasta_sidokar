@@ -1,0 +1,2 @@
+[14-Feb-2024 09:40:45 Asia/Jakarta] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/batubhay/sidokar/application/includes/header.php on line 0
+[14-Feb-2024 09:40:45 Asia/Jakarta] PHP Warning:  Invalid argument supplied for foreach() in /home/batubhay/sidokar/application/dashboard/dashboard.php on line 0

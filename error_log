@@ -1,0 +1,40 @@
+[14-Feb-2024 06:58:20 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 06:59:06 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 07:03:41 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 07:36:32 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 07:37:09 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 07:37:58 Asia/Jakarta] PHP Notice:  Undefined index: user_profile_id in /home/batubhay/sidokar/logout.php on line 0
+[14-Feb-2024 07:37:58 Asia/Jakarta] PHP Notice:  Undefined index: user_log_id in /home/batubhay/sidokar/logout.php on line 0
+[14-Feb-2024 07:42:58 Asia/Jakarta] PHP Notice:  Undefined index: user_profile_id in /home/batubhay/sidokar/logout.php on line 0
+[14-Feb-2024 07:42:58 Asia/Jakarta] PHP Notice:  Undefined index: user_log_id in /home/batubhay/sidokar/logout.php on line 0
+[14-Feb-2024 07:43:28 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/login.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 07:56:02 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 08:38:24 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 08:40:15 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 08:47:52 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 08:53:20 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 08:55:29 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 09:14:51 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 09:19:15 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
+[14-Feb-2024 09:40:24 Asia/Jakarta] PHP Notice:  Undefined index: user_profile_id in /home/batubhay/sidokar/logout.php on line 0
+[14-Feb-2024 09:40:24 Asia/Jakarta] PHP Notice:  Undefined index: user_log_id in /home/batubhay/sidokar/logout.php on line 0
+[14-Feb-2024 09:40:44 Asia/Jakarta] PHP Notice:  Undefined variable: access_captcha in /home/batubhay/sidokar/login_action.php on line 0
+[14-Feb-2024 09:40:44 Asia/Jakarta] PHP Notice:  Undefined index: MyCaptcha in /home/batubhay/sidokar/login_action.php on line 0
+[14-Feb-2024 09:40:44 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/batubhay/sidokar/login_action.php on line 0
+[14-Feb-2024 09:40:44 Asia/Jakarta] PHP Notice:  Undefined index: filemanager_enableSearch in /home/batubhay/sidokar/login_action.php on line 0
+[14-Feb-2024 10:42:33 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/index.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0

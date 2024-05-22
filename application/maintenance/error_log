@@ -1,0 +1,2 @@
+[14-Feb-2024 09:49:02 Asia/Jakarta] PHP Fatal error:  The file /home/batubhay/sidokar/application/maintenance/maintenance_upgrade.php encoded as type [1/72] cannot be decoded by this version of the ionCube Loader.
+ in Unknown on line 0
