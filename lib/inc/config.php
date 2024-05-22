@@ -24,8 +24,8 @@ $db_conf = array(
 define("INSTITUTION_CODE","{{institution_code}}");
 define("INSTITUTION_NAME","{{institution_name}}");
 define("SERVER_NAME","http://akreditasi.kars.or.id"); //Target Server
-define('USER_SIKARS', ""); //Ganti dengan username yang digunakan untuk login pada SIKARS http://akreditasi.kars.or.id
-define('PASSWORD_SIKARS', ""); //Ganti dengan password yang digunakan untuk login pada SIKARS http://akreditasi.kars.or.id
+define('USER_SIKARS', "batubhayangkara@gmail.com"); //Ganti dengan username yang digunakan untuk login pada SIKARS http://akreditasi.kars.or.id
+define('PASSWORD_SIKARS', "@Hastabrata2024"); //Ganti dengan password yang digunakan untuk login pada SIKARS http://akreditasi.kars.or.id
 define("SIGNATURE","DGea for Indonesia");
 define("UPLOAD_DIRECTORY","../../uploads");
 define("SIDOKAF_UPLOAD_DIRECTORY","../../uploads/sidokars");
@@ -37,7 +37,9 @@ define('INDICATOR_FILLED_DAY', "-7");
 
 /** Konfigurasi Backup Data **/
 define("BACKUP_DIR", $_SERVER['DOCUMENT_ROOT'] . "backup/");
-define("MYSQLDUMP", "c:/xampp/mysql/bin/mysqldump.exe"); //Kalau di Linux: mysqldump
+define("mysqldump", "./"); //Kalau di Linux: mysqldump
 
 define("CURRENT_RELEASE_VERSION", "http://sismadak.kars.or.id/upgrade");
+define("CHECK_INSTITUTION_REDOWSKO_EXPIRED", "/application/ws/redowsko_check_token/mitra_expired.php");
+define("CHECK_INSTITUTION_LOCATION", "/application/ws/redowsko_check_token/mitra_location.php");
 ?>
